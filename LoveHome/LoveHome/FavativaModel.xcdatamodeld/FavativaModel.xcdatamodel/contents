@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7701" systemVersion="14B25" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Entity" representedClassName="Entity" syncable="YES">
+        <attribute name="picPath" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Entity1" syncable="YES"/>
+    <entity name="PicModel" representedClassName="Entity" syncable="YES">
+        <attribute name="picPath" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="PicModel" positionX="-54" positionY="-9" width="128" height="60"/>
+        <element name="Entity" positionX="-54" positionY="0" width="128" height="60"/>
+        <element name="Entity1" positionX="-45" positionY="9" width="128" height="45"/>
+    </elements>
+</model>
